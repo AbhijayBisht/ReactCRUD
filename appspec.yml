@@ -5,7 +5,6 @@ files:
   - source: /
     destination: /home/ec2-user/server
     overwrite: true
-
 file_exists_behavior: OVERWRITE
 
 permissions:
