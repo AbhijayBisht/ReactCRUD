@@ -10,5 +10,6 @@ apt-get install npm -y
 apt install nginx -y
 #ufw allow 'Nginx HTTP'
 ufw allow 3000
+ufw reload
 
 echo "Running pre-installation steps..."
