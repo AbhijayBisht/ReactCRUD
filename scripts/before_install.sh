@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod +x scripts/*
 cd /home/ec2-user/server
 
 apt-get install curl
